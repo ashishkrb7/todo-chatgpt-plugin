@@ -4,7 +4,7 @@ Get a todo list ChatGPT plugin up and running in under 5 minutes using Python. T
 
 ## Demo
 
-![](./gpt_plugin_todo.mp4)
+![](./gpt_plugin_todo.gif)
 
 ## Setup locally
 
